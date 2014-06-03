@@ -11,7 +11,7 @@ Please See http://wei-meilin.blogspot.tw/2014/05/red-hat-openshift-xpaas-simple-
 
 - run rhc port-forward $YOUR_CONTAINER_NAME forward OpenShift port to local machine.   
 
-![port forward](https://github.com/weimeilin79/mqtt-demo/blob/master/docs/rhc.png)
+![port forward](https://github.com/weimeilin79/mqtt-demo/blob/master/docs/rhc.png?raw=true)
 
 - run 'init.sh' 
 
@@ -21,7 +21,7 @@ Please See http://wei-meilin.blogspot.tw/2014/05/red-hat-openshift-xpaas-simple-
 
 - run mvn -P producer under projects\mqttdemo
 
-![Producer](https://github.com/weimeilin79/mqtt-demo/blob/master/docs/producer.png?raw=true)
+![Producer](https://github.com/weimeilin79/mqtt-demo/blob/master/docs/producer.png?raw=true?raw=true)
 
 Supporting Articles
 -------------------
