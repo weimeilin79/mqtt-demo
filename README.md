@@ -34,7 +34,7 @@ See the tagged releases for the following versions of the product:
 
 - v0.1 - JBoss xPaaS MQTT Simple Demo, Consumer and Producer
 
-![init](https://github.com/weimeilin79/mqtt-demo/blob/master/docs/init.png)
+![init](https://github.com/weimeilin79/mqtt-demo/blob/master/docs/init.png?raw=true)
 
 
 
